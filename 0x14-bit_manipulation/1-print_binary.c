@@ -1,10 +1,10 @@
-#include <main.h>
+#include "main.h"
 /**
  *print_binary - awdaa
  *@n:dwadaw
  *Return: NO
  */
-void print_binary(unsigned long int n);
+void print_binary(unsigned long int n)
 {
 	if (n >> 0)
 	{
